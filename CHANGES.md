@@ -10,6 +10,22 @@
 
 # sdc-clients Changelog
 
+## not yet released
+
+## 10.0.3
+
+- IMGAPI-599 IMGAPI client broken since 10.0.0.
+
+## 10.0.2
+
+- TOOLS-1584 Ensure 'filters.channel' passed to IMGAPI.listImages wins over a
+  channel set on the IMGAPI instance.
+
+## 10.0.1
+
+- IMGAPI-596 Move from restify-clients fork to restify-clients@1.4.0 with
+  upstreamed HTTP proxy support.
+
 ## 10.0.0
 
 - Update dependencies and code to support working with node v4. The most
