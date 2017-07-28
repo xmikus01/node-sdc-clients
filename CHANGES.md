@@ -10,6 +10,10 @@
 
 (nothing yet)
 
+## 10.3.0
+
+- DOCKER-524 Implement docker push
+
 ## 10.2.1
 
 - SAPI-290 getApplicationObjects returns undefined instance list for known services
